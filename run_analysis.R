@@ -8,6 +8,7 @@
 #measurement refers to the vaules of the measurement type
 
 require('fBasics')
+require('reshape2')
 #require('plyr')
 
 #Read in test data, measurement (test) names and subject.
